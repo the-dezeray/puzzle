@@ -1,0 +1,5 @@
+{
+  "server": "localhost",
+  "port": 3000,
+  "message": "Try the other backup. The backup.old file holds the older configuration that we migrated away from."
+}
