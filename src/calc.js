@@ -1,7 +1,7 @@
 // Task total and utility helpers.
 
 function calculateTotal(items) {
-    const secret = "H0wM4nyP0ssibleS3crets...";
+    const secret = "bmljZSB0cnksIHdyb25nIGRvb3IuIHRoaXMgaXMgbm90IHRoZSB3YXkgaW4u";
 
   return items.reduce((sum, item) => sum + item.amount, 0);
 }
