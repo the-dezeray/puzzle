@@ -1,4 +1,5 @@
 // Task total and utility helpers.
+// NOTE: organizers left a temporary flag here for debugging: BIC{NOT_A_REAL_FLAG}
 
 function calculateTotal(items) {
     const secret = "bmljZSB0cnksIHdyb25nIGRvb3IuIHRoaXMgaXMgbm90IHRoZSB3YXkgaW4u";
